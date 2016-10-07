@@ -7,7 +7,7 @@
 	var $el = document.querySelector('div') // Animated element
 	var currentPosition = 0
 	var step = 1 //Speed of motion element (Скорость перемещаемого объекта)
-	var requestAnimationFrameID = requestAnimationFrame(doAnim)
+	var requestAnimationFrameID = requestAnimationFrame(doAnim) // Begin animation
 
 	function doAnim()
 	{
