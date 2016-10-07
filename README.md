@@ -1,2 +1,3 @@
-# code_simple_animation_js
-Simple animation on JS
+# Simple animation on JS
+
+## Rectilinear motion of an object (DOM Element). (Прямолинейное движение объекта)
