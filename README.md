@@ -1,11 +1,13 @@
 # Simple animation on JS
 ## Rectilinear motion of an object (DOM Element). (Прямолинейное движение объекта)
+
 ---
 General steps:
 
 1. Declaring variables.
 2. Create function of animation.
 3. Run animation.
+
 ---
 Основыне шаги:
 
